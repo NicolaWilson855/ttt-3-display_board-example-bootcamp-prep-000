@@ -1,9 +1,5 @@
 def display_board
-  board =["   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "]
-  board [1] = "| |"
-  board [3] = "| |"
-  board [5] = "| |"
+  board= ["   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "]
   end
-display_board
-
+  
 
