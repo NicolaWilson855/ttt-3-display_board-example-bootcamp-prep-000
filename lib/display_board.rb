@@ -1,5 +1,6 @@
 def display_board
-  print first_row= ["   ", "   ", "   " ]
+  puts first_row= ["   ", "   ", "   " ]
+  puts second_row= 
 end
 display_board
 
