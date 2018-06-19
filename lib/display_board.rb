@@ -1,7 +1,6 @@
 def display_board
-  board =["   ", "   ", "   "]
-  
-end
+  board =["   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "]
+  end
 display_board
 
 
