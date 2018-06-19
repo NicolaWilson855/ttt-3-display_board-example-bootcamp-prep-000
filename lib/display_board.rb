@@ -1,7 +1,6 @@
 def display_board
-  print ["   ", "   ", "   "]
-        ["   ", "   ", "   "]
-        ["   ", "   ", "   "]
+  board = "___|___|___"
+  
 end
 display_board
 
