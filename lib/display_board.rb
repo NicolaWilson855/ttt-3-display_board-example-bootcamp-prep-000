@@ -1,5 +1,5 @@
 def display_board
-  board = "___|___|___"
+  board =
   
 end
 display_board
